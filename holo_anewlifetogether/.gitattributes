@@ -1,0 +1,3 @@
+AppleSDGothicNeoEB.asset filter=lfs diff=lfs merge=lfs -text
+build/.vs/holo_moonshin/v16/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+GameAssembly.pdb filter=lfs diff=lfs merge=lfs -text
