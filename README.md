@@ -7,7 +7,7 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 
 [Chapter2 : 2D 점프게임 - 유기견을 키우는 데 필요한 것, 마음가짐을 알려주고 입양 간접체험](https://github.com/hachulwoo5/2D-A-new-life-together)
     
-**Chapter3 : 홀로렌즈 - 입양한 유기견과 상호작용
+**Chapter3 : 홀로렌즈 - 입양한 유기견과 상호작용**
 
 📌 스토리
 
