@@ -1,7 +1,7 @@
-# # A New Life Together 2D Jump Game
+# # A New Life Together Hololens2
 
 ## 💻: 프로젝트 소개
-졸업 전시 작품 프로젝트 A New Life Together의 2D 점프게임입니다.
+졸업 전시 작품 프로젝트 A New Life Together의 홀로렌즈 파트입니다.
 
 Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정보 전달
 
