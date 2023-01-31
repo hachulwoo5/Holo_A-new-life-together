@@ -27,7 +27,7 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 * Holoelns2
 
 ## :thought_balloon: 초기 구상도
-<img src = "https://user-images.githubusercontent.com/84338927/215742865-cbae7a4a-4168-42d5-aa89-aac6f553276a.PNG" width="70%" height="70%">
+<img src = "https://user-images.githubusercontent.com/84338927/215742865-cbae7a4a-4168-42d5-aa89-aac6f553276a.PNG" width="50%" height="50%">
 
 
 ## :camera: 실행 화면
