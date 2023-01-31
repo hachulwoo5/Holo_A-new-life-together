@@ -33,20 +33,19 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 ## :camera: 실행 화면
 
 <img src = "https://user-images.githubusercontent.com/84338927/215742865-cbae7a4a-4168-42d5-aa89-aac6f553276a.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/215743800-eadfa0de-9efd-40f6-90c2-3dfa8795b7de.PNG" width="50%" height="50%">
 
-## :camera: 아두이노 센서 및 미니어처
-<img src = "https://user-images.githubusercontent.com/84338927/208937777-7b124720-028f-4da0-9276-c888f23ecbfb.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208939039-2d56a0fd-c3b7-40dd-b0a7-8acab4dc9283.PNG" width="50%" height="50%">
 
 ## :camera: 전시장
-<img src = "https://user-images.githubusercontent.com/84338927/208941514-a167a275-b40a-415a-b0e5-d610f5aa9e68.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208945025-6763a081-dd0d-465b-a70a-49028e3e6588.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/215743991-5f742fb3-177f-41a4-9de5-8dfc6affa5d8.jpg" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/215743959-36e15cfd-e6a7-4e1d-8eb3-d060fa0bdb18.PNG" width="50%" height="50%">
+
 
 
 
 
 ## :camera: CKL 경남콘텐츠코리아랩 전시장 (우수작 외부 출품)
-<img src = "https://user-images.githubusercontent.com/84338927/208943931-de969b48-b88d-485b-9ed9-87bf56592126.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/215744108-f9112d48-471f-4748-9f54-a05e32e896fa.PNG" width="50%" height="50%">
 
 ## 🎥 플레이 영상
-[YouTube ⏯️](https://youtu.be/oQ_b3tGW44E)
+[YouTube ⏯️](https://youtu.be/qfKET9j-oV8)
