@@ -27,14 +27,12 @@ Chapter1 : 2D 퀴즈게임 - 유기견이 처한 실태나 상황에 대한 정�
 * Holoelns2
 
 ## :thought_balloon: 초기 구상도
-<img src = "https://user-images.githubusercontent.com/84338927/215742865-cbae7a4a-4168-42d5-aa89-aac6f553276a.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/208935871-4605b1d4-dcd2-419e-8b48-8e388f96a51e.PNG" width="70%" height="70%">
 
 
 ## :camera: 실행 화면
 
-<img src = "https://user-images.githubusercontent.com/84338927/208936563-8f092c0f-19ab-4c0b-a14f-5de780441417.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208937276-3b35bd0a-3ff7-49f2-9171-f8b01005c4e2.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208938258-b64dfd5a-f537-4bad-842b-85eb9e688b21.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/215742865-cbae7a4a-4168-42d5-aa89-aac6f553276a.PNG" width="50%" height="50%">
 
 ## :camera: 아두이노 센서 및 미니어처
 <img src = "https://user-images.githubusercontent.com/84338927/208937777-7b124720-028f-4da0-9276-c888f23ecbfb.PNG" width="50%" height="50%">
